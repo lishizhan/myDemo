@@ -5,5 +5,9 @@ public class Demo{
         System.out.println("Hello Git");
         System.out.println("Hello Git");
         System.out.println("Hello lishizhan");
+        System.out.println(" 分支：'hot-fix' 的内容！！！");
+        System.out.println(" 分支：'hot-fix' 的内容！！！");
+        System.out.println(" 分支：'hot-fix' 的内容！！！");
+        System.out.println(" 分支：'hot-fix' 的内容！！！");
     }
 }
