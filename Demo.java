@@ -9,5 +9,6 @@ public class Demo{
         System.out.println(" 分支：'hot-fix' 的内容！！！");
         System.out.println(" 分支：'hot-fix' 的内容！！！");
         System.out.println("-----    master test    -----");
+        System.out.println("-----    github edit    -----");
     }
 }
